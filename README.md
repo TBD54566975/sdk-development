@@ -285,6 +285,7 @@ Test vectors are also used to determine feature completeness via our [test harne
 | Algorithm       | Typescript | Kotlin | Rust | Swift |
 | --------------- | ---------- | ------ | ---- | ----- |
 | `ES256K`        | ✅          | ✅      | ❌    | ❌     |
+| `ES256`         | ❌          | ❌      | ❌    | ❌     |
 | `EdDSA:Ed25519` | ✅          | ✅      | ❌    | ❌     |
 
 > [!IMPORTANT]
